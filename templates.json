@@ -10,5 +10,11 @@
     "name": "Vallartas",
     "repo": "templateflow-io/template-vallartas",
     "description": "Restaurant template with menu, gallery, reviews"
+  },
+  {
+    "id": "elizabalance",
+    "name": "elizabalance",
+    "repo": "templateflow-io/template-elizabalance",
+    "description": "Template project: elizabalance"
   }
 ]
